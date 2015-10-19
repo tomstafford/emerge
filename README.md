@@ -1,4 +1,8 @@
-# emerge
+# Emergent psychological function from simple model neurons
+
+Tom Stafford's PSY105 lectures
+
+A five week course in which we look at how models of simple neurons can behave in ways which look remarkably like human memory
 
 Prerequisites:
 * Python installed on your machine (PSY105 students, open 'Software Centre' and search for 'Anaconda')
