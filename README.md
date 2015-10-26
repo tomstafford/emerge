@@ -12,3 +12,6 @@ Prerequisites:
 For University of Sheffield students on the managed desktop
 * You need to run the version 3 files (e.g. lecture1.v3.ipynb)
 
+Converting ipython notebook v4 to v3, use this at the command line
+* ipython nbconvert --to notebook --nbformat 3 lecture1.ipynb
+* only works on linux as far as I can tell
